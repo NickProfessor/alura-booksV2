@@ -10,3 +10,4 @@ async function buscarLivros() {
     let livrosComDesconto = aplicarDesconto(livros);
     exibirLivrosNaTela(livrosComDesconto);
 }
+
